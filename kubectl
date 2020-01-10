@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>PermanentRedirect</Code><Message>The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint.</Message><Endpoint>amazon-eks.s3-us-west-2.amazonaws.com</Endpoint><Bucket>amazon-eks</Bucket><RequestId>4F5D289505BAA47C</RequestId><HostId>fekCqS9g4nmih9/hKPBLtNppg4dTEE8N/z4m2Otw5Gp0Czwxt/iDT0RbaIJBvG2PZndGaomqDX4=</HostId></Error>
